@@ -7,10 +7,16 @@ ___
 ___
 [![https://t.me/+KgugqR4FTEEyYzk0](https://i.imgur.com/JTk93hT.png)](https://t.me/+KgugqR4FTEEyYzk0 "Telegram (Forum)")
 [![https://t.me/CyberDNIWE_Feed](https://i.imgur.com/jpZV2DR.png)](https://t.me/CyberDNIWE_Feed "Telegram (Announce)") 
+
+
 ___
 
 [![https://discord.gg/WYeAG9R](https://i.imgur.com/PvxCDLw.png)](https://discord.gg/WYeAG9R "Discord  (Forum)")
+
+
 ___
+
+
 ___
 
 ```
